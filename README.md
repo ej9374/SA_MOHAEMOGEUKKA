@@ -20,3 +20,6 @@
 - Flask 추천 모델 연동
 - 레시피 데이터 전처리 및 DB 모델링
 - 추천 결과 및 유사 레시피 조회 API 개발
+
+## 사용스킬
+`Spring Boot`, `MySQL`, `Flask API`, `Spring Security`, `React`
