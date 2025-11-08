@@ -23,3 +23,9 @@
 
 ## 사용스킬
 `Spring Boot`, `MySQL`, `Flask API`, `Spring Security`, `React`
+
+## 리팩토링 포인트
+
+- 예외처리 및 응답 구조 통일화
+- JWT 기반 인증 및 보안 정책 적용
+- 서비스 레이어 및 DTO 구조 정리
