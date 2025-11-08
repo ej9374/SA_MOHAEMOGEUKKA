@@ -1,7 +1,7 @@
 
 # 😋 모해모그까
 
-![image.png](attachment:82a78db1-2700-4900-ba34-160ab2bf07de:2814dadc-5cd6-4c73-a82a-8afc4b258b64.png)
+<img width="930" height="435" alt="Image" src="https://github.com/user-attachments/assets/8ae8731e-f9bd-41b2-a31f-d84b58bf007d" />
 
 ## 기획배경 및 설명
 
