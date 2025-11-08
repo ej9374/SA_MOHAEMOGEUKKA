@@ -1,7 +1,7 @@
+<img width="450" height="210" alt="Image" src="https://github.com/user-attachments/assets/8ae8731e-f9bd-41b2-a31f-d84b58bf007d" />
+
 
 # 😋 모해모그까
-
-<img width="930" height="435" alt="Image" src="https://github.com/user-attachments/assets/8ae8731e-f9bd-41b2-a31f-d84b58bf007d" />
 
 ## 기획배경 및 설명
 
