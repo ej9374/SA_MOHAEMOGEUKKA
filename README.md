@@ -58,7 +58,7 @@
 
 
 ## 사용스킬
-`Spring Boot`, `MySQL`, `Flask API`, `Spring Security`, `React`, `Flask API`
+`Spring Boot`, `MySQL`, `Flask API`, `Spring Security`, `React`
 
 ## 리팩토링 포인트
 
